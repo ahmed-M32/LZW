@@ -1,0 +1,35 @@
+name: Ahmed Mohsen Khalaf
+id: 20220030
+section: 3is-s5
+1. What is monolithic software?
+Monolithic software is software that uses monolithic design architecture, which is a unified design model that is self-contained and
+independent from other software. This means that all of the application's functionality, such as UI, business logic, and data access is tightly
+integrated into one large application.
+2. When is it advised to build monolithic software?
+An example of scenarios to implement monolithic architecture:
+1: small to medium-sized applications
+2: during the early stages of developing or prototyping
+3. If the requirements are clear and simple: If the application requirements are stable and not expected to change drastically, a monolithic
+system can be appropriate.
+4-Limited Resources: Monolithic architectures require fewer resources, both in terms of infrastructure and development, as they can run on a
+single server and don't need the complexity of managing multiple services.
+3: What are the most common architectural styles for monolithic systems? And what are its advantages?
+1-common architecture styles:
+1 presentation layer
+2: business logic layer
+3-data layer
+2-advantages of monolithic architecture
+1. Simplicity: Monolithic applications are easier to design and manage at the start because all the components are together, that reduces
+development complexity.
+2: Performance: Since everything runs in the same memory space, data exchanges between layers can be faster than in distributed systems.
+3. Simple Deployment: Deployment is often easier because it involves deploying a single package or executable, reducing the complexities
+associated with distributed deployments.
+4: Easier to Manage in the Short Term: For small teams, monolithic architectures are usually more manageable because there is no need to
+coordinate changes across multiple services.
+refrences :
+Wikipedia.com
+geeksforgeeks.com
+designgurus.io
+TechTarget.com
+
+dfahondjpfbgwbvudaibavudnq92vni
